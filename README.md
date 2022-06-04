@@ -1,5 +1,5 @@
 # python-game
-This is a little python game designed in MVC design pattern. Feel free to complete it as an exercise of software engineering.
+This is a little python game designed in MVC design pattern. I have completed task 1 and the view part of task 2. Feel Free to complete it as your exercise.
 
 To play it, you need to enter `a3_supplied/a3_supplied` and run
 ```
